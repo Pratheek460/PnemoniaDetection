@@ -1,0 +1,14 @@
+torch
+torchvision
+fastapi
+uvicorn
+pillow
+numpy
+opencv-python
+sqlalchemy
+reportlab
+pandas
+matplotlib
+plotly
+python-multipart
+grad-cam
